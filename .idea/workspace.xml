@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ce91c47-08d6-44a8-99e1-533438b72742" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PycharmProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-7.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-9.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Book/Cpt-9.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/Number guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning/RPS gaming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 1/Ex-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 1/Ex-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 1/Ex-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 1/Ex-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 1/Ex-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 2/Ex-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-1-mod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 3/Ex-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/24571099-钱子晗.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/Ex-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/movies.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/plot.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/test-data.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/~$可视化大作业实验报告-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Exercise 4/数据可视化大作业实验报告.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 1/Revision/Experimental exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/3D Figure with Numpy/Map.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/3D Figure with Numpy/Scatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Boston Housing Price/Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/CNN Neural Engine/Imagin Identification for Flight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Exercise/AI model for plant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Exercise/Simulator for sensor of flight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Conbination Function/AI with ML for Malfunction Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Malfunction Detection/AI for Malfunction Detection with Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Malfunction Detection/AI for Malfunction Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Prediction/AI for Prediction with Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Prediction/AI for Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 2: judge if need repaire/AI for Judgement with Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 2: judge if need repaire/AI for Judgement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data/Generate Data for Manual Intervention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data/Generate Data for Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data/Generate Data for Training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data/Generate Data with timestamp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement/Judgement for Manual Intervention.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement/intervention_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement/intervention_data_test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement/test_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement/train_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/Improved-AI for Malfunction Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/Interactive-Improved-AI for Malfunction Detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/test_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/test_data_answer.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/train_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction/AI for Prediction with Graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction/Generate Data for Prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction/sensor_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Transformation of temperature.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection/Interactive-Improved-AI for Malfunction Detection.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="200" />
+    </hideBySeverity>
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tGAsWd5wvyOynOzrgXdlpc5FOV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.AI Python with Direct Contamination.executor": "Run",
+    "Python.AI Python.executor": "Run",
+    "Python.AI for Judgement with Graph.executor": "Run",
+    "Python.AI for Judgement.executor": "Run",
+    "Python.AI for Malfunction Detection with Graph - without random generation of data.executor": "Run",
+    "Python.AI for Malfunction Detection with Graph.executor": "Run",
+    "Python.AI for Malfunction Detection.executor": "Run",
+    "Python.AI for Prediction with Graph.executor": "Run",
+    "Python.AI for Prediction.executor": "Run",
+    "Python.AI model for plant.executor": "Run",
+    "Python.AI with ML for Malfunction Detection.executor": "Run",
+    "Python.Class.executor": "Run",
+    "Python.Generate Data for Manual Intervention.executor": "Run",
+    "Python.Generate Data for Prediction.executor": "Run",
+    "Python.Generate Data for Testing.executor": "Run",
+    "Python.Generate Data for Training.executor": "Run",
+    "Python.Generate Data with timestamp.executor": "Run",
+    "Python.Generate Data.executor": "Run",
+    "Python.Imagin Identification for Flight.executor": "Run",
+    "Python.Improved-AI for Malfunction Detection.executor": "Run",
+    "Python.Interactive-Improved-AI for Malfunction Detection.executor": "Run",
+    "Python.Judgement for Manual Intervention.executor": "Run",
+    "Python.Map.executor": "Run",
+    "Python.Number guessing.executor": "Run",
+    "Python.RPS gaming.executor": "Run",
+    "Python.Random number.executor": "Run",
+    "Python.Scatter.executor": "Run",
+    "Python.Simulator for sensor of flight (1).executor": "Run",
+    "Python.Simulator for sensor of flight.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Transformation of temperature.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/qian10102/PycharmProjects/PycharmProject/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement" />
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction" />
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection" />
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Malfunction Detection" />
+      <recent name="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data" />
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Conbination Function" />
+      <recent name="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition" />
+      <recent name="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Prediction" />
+      <recent name="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ce91c47-08d6-44a8-99e1-533438b72742" name="Changes" comment="" />
+      <created>1739968244391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739968244391</updated>
+      <workItem from="1741089319442" duration="1058000" />
+      <workItem from="1741140848296" duration="3227000" />
+      <workItem from="1741185607138" duration="1541000" />
+      <workItem from="1741679809607" duration="3942000" />
+      <workItem from="1741778777885" duration="4954000" />
+      <workItem from="1742284510212" duration="908000" />
+      <workItem from="1742297399854" duration="1125000" />
+      <workItem from="1742298651559" duration="11928000" />
+      <workItem from="1742622188977" duration="12672000" />
+      <workItem from="1742637736303" duration="740000" />
+      <workItem from="1742639828376" duration="17622000" />
+      <workItem from="1742860743929" duration="4260000" />
+      <workItem from="1742914316861" duration="18998000" />
+      <workItem from="1744371920144" duration="3463000" />
+      <workItem from="1744376943428" duration="2758000" />
+      <workItem from="1745493860720" duration="24981000" />
+      <workItem from="1746771169321" duration="1182000" />
+      <workItem from="1747221858234" duration="10704000" />
+      <workItem from="1747403784601" duration="1140000" />
+      <workItem from="1747661964074" duration="5261000" />
+      <workItem from="1747710790872" duration="265000" />
+      <workItem from="1748089197343" duration="633000" />
+      <workItem from="1748337735898" duration="3710000" />
+      <workItem from="1748691989988" duration="11000" />
+      <workItem from="1758533042879" duration="19000" />
+      <workItem from="1758533079105" duration="888000" />
+      <workItem from="1758650996491" duration="92000" />
+      <workItem from="1759299543322" duration="1309000" />
+      <workItem from="1767451187183" duration="212000" />
+      <workItem from="1767451406093" duration="244000" />
+      <workItem from="1767451658716" duration="789000" />
+      <workItem from="1778254220632" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Prediction_with_Graph.coverage" NAME="AI for Prediction with Graph Coverage Results" MODIFIED="1747701850025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Simulator_for_sensor_of_flight__1_.coverage" NAME="Simulator for sensor of flight (1) Coverage Results" MODIFIED="1742623347707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Exercise" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data_for_Testing.coverage" NAME="Generate Data for Testing Coverage Results" MODIFIED="1745722108857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Judgement_with_Graph.coverage" NAME="AI for Judgement with Graph Coverage Results" MODIFIED="1745734852360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 2: judge if need repaire" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Improved_AI_for_Malfunction_Detection.coverage" NAME="Improved-AI for Malfunction Detection Coverage Results" MODIFIED="1745593500212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Imagin_Identification_for_Flight.coverage" NAME="Imagin Identification for Flight Coverage Results" MODIFIED="1743477403415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/CNN Neural Engine" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Map.coverage" NAME="Map Coverage Results" MODIFIED="1741779469486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/3D Figure with Numpy" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data_for_Manual_Intervention.coverage" NAME="Generate Data for Manual Intervention Coverage Results" MODIFIED="1747286762543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Interactive_Improved_AI_for_Malfunction_Detection.coverage" NAME="Interactive-Improved-AI for Malfunction Detection Coverage Results" MODIFIED="1748337765022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_with_ML_for_Malfunction_Detection.coverage" NAME="AI with ML for Malfunction Detection Coverage Results" MODIFIED="1742987270861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Conbination Function" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Malfunction_Detection.coverage" NAME="AI for Malfunction Detection Coverage Results" MODIFIED="1745584336039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Malfunction Detection" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data_with_timestamp.coverage" NAME="Generate Data with timestamp Coverage Results" MODIFIED="1747228314379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Class.coverage" NAME="Class Coverage Results" MODIFIED="1741185917585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data.coverage" NAME="Generate Data Coverage Results" MODIFIED="1745586792293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Test.coverage" NAME="Test Coverage Results" MODIFIED="1741693495966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Exercise 1" />
+    <SUITE FILE_PATH="coverage/PycharmProject$AI_Python.coverage" NAME="AI Python Coverage Results" MODIFIED="1742634765003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_Python_with_Direct_Contamination.coverage" NAME="AI Python with Direct Contamination Coverage Results" MODIFIED="1742817913964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Prediction.coverage" NAME="AI for Prediction Coverage Results" MODIFIED="1745734271179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Prediction" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Judgement.coverage" NAME="AI for Judgement Coverage Results" MODIFIED="1745495065673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 2: judge if need repaire" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Malfunction_Detection_with_Graph___without_random_generation_of_data.coverage" NAME="AI for Malfunction Detection with Graph - without random generation of data Coverage Results" MODIFIED="1744375982007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Malfunction Detection" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Test.coverage" NAME="Test Coverage Results" MODIFIED="1742819480859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Judgement_for_Manual_Intervention.coverage" NAME="Judgement for Manual Intervention Coverage Results" MODIFIED="1748337749804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Judgement" />
+    <SUITE FILE_PATH="coverage/PycharmProject$AI_model_for_plant.coverage" NAME="AI model for plant Coverage Results" MODIFIED="1742284571671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Exercise 1" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Transformation_of_temperature.coverage" NAME="Transformation of temperature Coverage Results" MODIFIED="1747404002810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Simulator_for_sensor_of_flight.coverage" NAME="Simulator for sensor of flight Coverage Results" MODIFIED="1742569853495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Exercise 1" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data_for_Training.coverage" NAME="Generate Data for Training Coverage Results" MODIFIED="1745722102065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Generate Data" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$test.coverage" NAME="test Coverage Results" MODIFIED="1759299628195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$Generate_Data_for_Prediction.coverage" NAME="Generate Data for Prediction Coverage Results" MODIFIED="1747701389522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Improved Version of AI/Prediction" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_Python.coverage" NAME="AI Python Coverage Results" MODIFIED="1742818155878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Olypic Competition" />
+    <SUITE FILE_PATH="coverage/PycharmProject$Scatter.coverage" NAME="Scatter Coverage Results" MODIFIED="1741779480838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Fundamental Computer/Semester 2/Exercise 1" />
+    <SUITE FILE_PATH="coverage/AI_Python_py$AI_for_Malfunction_Detection_with_Graph.coverage" NAME="AI for Malfunction Detection with Graph Coverage Results" MODIFIED="1744374026516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Main Files/Semester 2/Olypic Competition/Function 1: detect failure and predict future condition/Malfunction Detection" />
+  </component>
+</project>
