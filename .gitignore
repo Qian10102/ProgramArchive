@@ -1,6 +1,7 @@
 ##macOS system files filter
 .DS_Store
 **/.DS_Store
+.gitignore
 
 ##jetBrain IDE filter
 .idea
