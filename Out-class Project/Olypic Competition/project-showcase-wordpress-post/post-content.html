@@ -1,0 +1,70 @@
+<!-- wp:html -->
+<article class="project-showcase-post" id="project-top">
+  <header class="project-showcase-post__hero">
+    <p class="project-showcase-post__eyebrow">SMART SENSOR INTELLIGENCE</p>
+    <h1>Olympic AI：让每一次设备信号都有答案</h1>
+    <p class="project-showcase-post__lead">一个面向智能传感器的预测性维护原型。从模拟数据、异常发现，到趋势预判与维护建议，构建完整的机器学习闭环。</p>
+    <dl class="project-showcase-post__metrics">
+      <div><dt>4</dt><dd>核心子模块</dd></div>
+      <div><dt>24h</dt><dd>未来趋势预测</dd></div>
+      <div><dt>8+</dt><dd>数据与 AI 工具</dd></div>
+    </dl>
+  </header>
+
+  <nav class="project-showcase-post__toc" aria-label="文章目录">
+    <a href="#overview">项目概述</a><a href="#workflow">工作流程</a><a href="#modules">核心模块</a><a href="#results">结果与评估</a><a href="#tech">技术栈</a>
+  </nav>
+
+  <section id="overview">
+    <p class="project-showcase-post__kicker">PROJECT MISSION</p>
+    <h2>从“看见异常”到“提前行动”</h2>
+    <p>设备维护不应发生在故障之后。本项目将传感器的功率、信号强度、时间戳等运行信息转化为可执行洞察，帮助使用者更早发现风险、理解趋势，并给出维护建议。它既适合在缺少真实设备数据时快速验证算法，也能作为接入实时数据后的预测性维护原型基础。</p>
+  </section>
+
+  <section id="workflow" class="project-showcase-post__workflow">
+    <p class="project-showcase-post__kicker">HOW IT WORKS</p>
+    <h2>数据流动，决策发生</h2>
+    <ol>
+      <li><strong>采集或生成数据</strong><span>训练集、测试集、人工干预数据与时间序列数据。</span></li>
+      <li><strong>清洗与特征处理</strong><span>处理时间字段、缺失值，并完成标准化或归一化。</span></li>
+      <li><strong>识别异常与预测趋势</strong><span>使用 Isolation Forest 发现异常，借助 Prophet 预测未来 24 小时趋势。</span></li>
+      <li><strong>输出维护建议</strong><span>通过 XGBoost 将异常信号转化为清晰的维护判断与评估结果。</span></li>
+    </ol>
+  </section>
+
+  <section id="modules">
+    <p class="project-showcase-post__kicker">CORE MODULES</p>
+    <h2>四个模块，一条智能闭环</h2>
+    <div class="project-showcase-post__cards">
+      <article><span>01</span><h3>模拟数据生成</h3><p>构造训练、测试、人工干预与时间序列数据，使模型原型能在没有真实设备数据时快速验证。</p><small>sensor_ID · power · signal_strength · timestamp</small></article>
+      <article><span>02</span><h3>故障检测</h3><p>使用 Isolation Forest 识别偏离正常工作区间的设备，并输出疑似异常传感器清单。</p><small>StandardScaler · IsolationForest · Plotly</small></article>
+      <article><span>03</span><h3>维护决策</h3><p>以已标注故障样本训练 XGBoost，将异常信号转化为“是否需要维护”的可执行建议。</p><small>XGBoost · Accuracy · Feature Importance</small></article>
+      <article><span>04</span><h3>趋势预测</h3><p>借助 Prophet 预测未来 24 小时的功率或信号强度，并呈现预测区间与不确定性。</p><small>Prophet · 24h Forecast · Confidence Interval</small></article>
+    </div>
+  </section>
+
+  <section id="results">
+    <p class="project-showcase-post__kicker">MODEL OUTPUTS</p>
+    <h2>可靠模型，清晰结果</h2>
+    <p>项目输出预测均值及置信区间、异常设备清单、维护需求标签和模型评估结果。以下图表来自项目的改进版流程。</p>
+    <figure><img src="assets/forecast-area.png" alt="传感器预测趋势与置信区间面积图"><figcaption>未来趋势预测：以预测均值和置信区间呈现短期运行状态。</figcaption></figure>
+    <div class="project-showcase-post__figure-grid">
+      <figure><img src="assets/power-signal-scatter.png" alt="功率与信号强度的维护分类散点图"><figcaption>功率—信号强度空间中的维护分类。</figcaption></figure>
+      <figure><img src="assets/feature-importance.png" alt="维护预测模型的特征重要性图"><figcaption>特征重要性帮助理解维护决策的主要依据。</figcaption></figure>
+      <figure><img src="assets/confusion-matrix.png" alt="维护预测模型的混淆矩阵"><figcaption>混淆矩阵用于核验分类器的预测表现。</figcaption></figure>
+    </div>
+  </section>
+
+  <section id="tech">
+    <p class="project-showcase-post__kicker">TECHNOLOGY</p>
+    <h2>技术栈与主要产出</h2>
+    <p class="project-showcase-post__tags"><span>Pandas</span><span>NumPy</span><span>scikit-learn</span><span>XGBoost</span><span>Prophet</span><span>Matplotlib</span><span>Seaborn</span><span>Plotly</span></p>
+    <p>主要输出包括 <code>anomalies.csv</code>、<code>forecast_data.csv</code>、<code>prediction_result.csv</code>，以及污染率分析、特征重要性、混淆矩阵、ROC 曲线等图表。异常检测、时间序列预测和维护分类可独立使用，也可串联为完整的设备健康监测流程。</p>
+  </section>
+
+  <footer class="project-showcase-post__footer">
+    <p>项目源代码、模拟数据和模型输出图表详见 <a href="https://github.com/Qian10102/ProgramArchive/tree/85064b57bdb01a35d5e9b3af3b7786d37cd35569/Out-class%20Project/Olypic%20Competition" target="_blank" rel="noreferrer">GitHub 仓库</a>。</p>
+    <a href="#project-top">返回文章顶部 ↑</a>
+  </footer>
+</article>
+<!-- /wp:html -->
