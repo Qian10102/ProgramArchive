@@ -13,8 +13,8 @@ extract_folder = 'fgvc-aircraft-2013b-subset'
 if not os.path.exists(extract_folder):
     os.makedirs(extract_folder)
 # 解压文件
-(f = zipfile.ZipFile(zip_path,'r'))
-f.extractall(extract_folder)
+with zipfile.ZipFile(zip_path, "r") as f:
+    f.extractall(extract_folder)
 print(f"文件已解压到 {extract_folder} 文件夹中。")
 # 定义标签文件路径
 label_file = "fgvc-aircraft-2013b-subset/labels.txt"

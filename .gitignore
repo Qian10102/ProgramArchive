@@ -3,9 +3,8 @@
 **/.DS_Store
 .gitignore
 
-##jetBrain IDE filter
-.idea
-.venv
+##VS Code configuration files filter
+.vscode
 
 ##Private API keys filter
 .webui_secret_key
